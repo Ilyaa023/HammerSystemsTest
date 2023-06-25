@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HammerSystemsTest</string>
+    <string name="title_menu">Меню</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_cart">Корзина</string>
+    <string name="filter_drinks">Напитки</string>
+    <string name="filter_desserts">Десерты</string>
+    <string name="filter_combo">Комбо</string>
+    <string name="filter_pizza">Пицца</string>
+    <string-array name="title_cities_choose">
+        <item>Москва</item>
+        <item>Пермь</item>
+    </string-array>
+</resources>
